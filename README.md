@@ -46,3 +46,4 @@ the API returns HTTP 404 with a descriptive error message.
 />
 <img width="802" height="490" alt="Screenshot 2026-01-06 215713" src="https://github.com/user-attachments/assets/37c6645e-dc0c-4102-b438-19683dbb34a2" />
 <img width="1126" height="790" alt="Screenshot 2026-01-06 215741" src="https://github.com/user-attachments/assets/5ea98a5c-17e8-4fa4-bb0a-0d31d48abffd" />
+<img width="1178" height="929" alt="Screenshot 2026-01-06 215621" src="https://github.com/user-attachments/assets/3591192e-f43a-410c-adcd-3b894fb89e1c" />
